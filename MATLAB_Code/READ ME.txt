@@ -1,0 +1,6 @@
+This Folder includes two MATLAB scripts with their ( .txt) files used to plot values of Eye closue and yawns.
+
+MATLAB script ------------ Text File
+
+OnePerson.m    ----->  DA_YES.txt
+TwoPerson.m    ----->  dufe_FINAL.txt               
